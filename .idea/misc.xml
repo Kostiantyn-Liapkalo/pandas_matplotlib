@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="pathToExecutable" value="$PROJECT_DIR$/../.local/bin/black" />
+    <option name="sdkUUID" value="68579ba4-cb72-43ec-a750-ac21955e6cd7" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (pandas_matplotlib_dz2)" project-jdk-type="Python SDK" />
+</project>

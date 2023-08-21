@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pandas-matplotlib-dz2"
+version = "0.1.0"
+description = ""
+authors = ["Kostiantyn <lynx87@ukr.net>"]
+readme = "README.md"
+packages = [{include = "pandas_matplotlib_dz2"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
